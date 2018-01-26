@@ -1,0 +1,12 @@
+c:\users\watlinton\documents\visual studio 2010\Projects\Storage_Management\Storage_Management\bin\Storage_Management.dll
+c:\users\watlinton\documents\visual studio 2010\Projects\Storage_Management\Storage_Management\bin\Storage_Management.pdb
+c:\users\watlinton\documents\visual studio 2010\Projects\Storage_Management\Storage_Management\obj\Debug\Storage_Management.dll
+c:\users\watlinton\documents\visual studio 2010\Projects\Storage_Management\Storage_Management\obj\Debug\Storage_Management.pdb
+C:\Users\Watlinton\Documents\Visual Studio 2010\Projects\Storage_Management\Storage_Management\bin\Storage_Management.dll.config
+C:\Users\Watlinton\Documents\Visual Studio 2010\Projects\Storage_Management\Storage_Management\obj\Debug\Storage_Management.csprojResolveAssemblyReference.cache
+C:\Users\Watley\Desktop\Watley\Varsity\Onezzzz\_WEBSITE\Storage_Management\Storage_Management\bin\Storage_Management.dll.config
+C:\Users\Watley\Desktop\Watley\Varsity\Onezzzz\_WEBSITE\Storage_Management\Storage_Management\bin\Storage_Management.dll
+C:\Users\Watley\Desktop\Watley\Varsity\Onezzzz\_WEBSITE\Storage_Management\Storage_Management\bin\Storage_Management.pdb
+C:\Users\Watley\Desktop\Watley\Varsity\Onezzzz\_WEBSITE\Storage_Management\Storage_Management\obj\Debug\Storage_Management.csprojResolveAssemblyReference.cache
+C:\Users\Watley\Desktop\Watley\Varsity\Onezzzz\_WEBSITE\Storage_Management\Storage_Management\obj\Debug\Storage_Management.dll
+C:\Users\Watley\Desktop\Watley\Varsity\Onezzzz\_WEBSITE\Storage_Management\Storage_Management\obj\Debug\Storage_Management.pdb
